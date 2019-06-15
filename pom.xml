@@ -6,6 +6,10 @@
 	<modules>
 		<module>pattern001.simplefactory</module>
 		<module>pattern001simplefactory</module>
+		<module>pattern002simplefactory</module>
+		<module>pattern003simplefactory</module>
+		<module>pattern100factorymethod</module>
+		<module>pattern200abstractfactory</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
