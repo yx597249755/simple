@@ -7,13 +7,24 @@ import static org.junit.Assert.*;
 
 public class ClientTest {
 
+    Client client = new Client();
     @Test
     public void run() {
 
-        Client client = new Client();
+
         String s = client.run();
 
         Assert.assertEquals( "goose run",s );
+
+    }
+
+
+    @Test
+    public void cry() {
+
+        String s = client.cry();
+
+        Assert.assertEquals( "goose cry",s );
 
     }
 }

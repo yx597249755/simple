@@ -4,7 +4,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>pom</packaging>
 	<modules>
-		<module>pattern001.simplefactory</module>
 		<module>pattern001simplefactory</module>
 		<module>pattern002simplefactory</module>
 		<module>pattern003simplefactory</module>

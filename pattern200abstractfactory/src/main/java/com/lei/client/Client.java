@@ -7,14 +7,21 @@ import com.lei.factory.GooseFatcory;
 
 public class Client {
 
+    AnimalFactory catFatcory = new CatFatcory();
+    AnimalFactory dogFatcory = new DogFatcory();
+    AnimalFactory gooseFatcory = new GooseFatcory();
+
     public String run(){
-        AnimalFactory catFatcory = new CatFatcory();
-        AnimalFactory dogFatcory = new DogFatcory();
-        AnimalFactory gooseFatcory = new GooseFatcory();
         return gooseFatcory.createRun().runmethod();
+
+    }
+
+    public String cry(){
+        return gooseFatcory.createCry().crymethod();
 
 
     }
+
 
 
 }
