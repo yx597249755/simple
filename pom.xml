@@ -22,6 +22,8 @@
 		<module>pattern1300strategy</module>
 		<module>pattern1400templatemethod</module>
 		<module>pattern1500observer</module>
+		<module>pattern1600iterator</module>
+		<module>pattern1700chain</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
