@@ -16,6 +16,7 @@
 		<module>pattern700decorator</module>
 		<module>pattern800proxy</module>
 		<module>pattern900facade</module>
+		<module>pattern1000bridge</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
