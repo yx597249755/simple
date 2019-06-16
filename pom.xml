@@ -19,6 +19,9 @@
 		<module>pattern1000bridge</module>
 		<module>pattern1100composite</module>
 		<module>pattern1200flyweight</module>
+		<module>pattern1300strategy</module>
+		<module>pattern1400templatemethod</module>
+		<module>pattern1500observer</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
