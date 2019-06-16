@@ -1,5 +1,6 @@
 package com.lei;
 
+
 public class CryFactory {
 
     // 普通工厂仿佛，就是建立一个工厂类，对实现了同一接口的一些类进行实例的创建

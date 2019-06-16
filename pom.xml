@@ -9,6 +9,8 @@
 		<module>pattern003simplefactory</module>
 		<module>pattern100factorymethod</module>
 		<module>pattern200abstractfactory</module>
+		<module>pattern300singleton</module>
+		<module>pattern400builder</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
