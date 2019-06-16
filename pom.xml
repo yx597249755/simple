@@ -24,6 +24,7 @@
 		<module>pattern1500observer</module>
 		<module>pattern1600iterator</module>
 		<module>pattern1700chain</module>
+		<module>pattern1800command</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
