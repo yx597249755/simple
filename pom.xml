@@ -11,6 +11,7 @@
 		<module>pattern200abstractfactory</module>
 		<module>pattern300singleton</module>
 		<module>pattern400builder</module>
+		<module>pattern500prototype</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
