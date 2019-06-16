@@ -14,6 +14,7 @@
 		<module>pattern500prototype</module>
 		<module>pattern602adapter</module>
 		<module>pattern700decorator</module>
+		<module>pattern800proxy</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
