@@ -26,6 +26,8 @@
 		<module>pattern1700chain</module>
 		<module>pattern1800command</module>
 		<module>pattern1900memento</module>
+		<module>pattern2000state</module>
+		<module>pattern2100visitor</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
