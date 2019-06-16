@@ -25,6 +25,7 @@
 		<module>pattern1600iterator</module>
 		<module>pattern1700chain</module>
 		<module>pattern1800command</module>
+		<module>pattern1900memento</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
