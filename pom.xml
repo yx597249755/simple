@@ -17,8 +17,8 @@
 		<module>pattern800proxy</module>
 		<module>pattern900facade</module>
 		<module>pattern1000bridge</module>
-		<module>pattern110composite</module>
 		<module>pattern1100composite</module>
+		<module>pattern1200flyweight</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
